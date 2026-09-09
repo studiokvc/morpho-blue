@@ -1,3 +1,7 @@
+## Parcours français
+
+Lire le [parcours Morpho Blue en français](docs/fr/README.md) : douze chapitres sur les marchés isolés, les parts, les intérêts et les liquidations.
+
 # Morpho Blue
 
 Morpho Blue is a non-custodial lending protocol implemented for the Ethereum Virtual Machine.
